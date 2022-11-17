@@ -1,2 +1,1 @@
-# Hostiing_Tricks
-Hostiing_Tricks
+# Shortcut-Keys
