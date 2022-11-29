@@ -34,7 +34,7 @@ git clone https://github.com/itzomen/porto.git
 
 -> Create a Virtual environment using
 ``` bash
-mkvirtualenv --python=/usr/bin/python3.8 venv
+mkvirtualenv --python=/usr/bin/python3.10 venv
 ```
 
 -> Install all requirements using
